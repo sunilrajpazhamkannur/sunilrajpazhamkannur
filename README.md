@@ -46,7 +46,7 @@ I'm a seasoned MERN Stack Developer based in Manchester, UK, with a strong backg
 <!-- Contact Section -->
 ## Get In Touch 📫
 - 🌐 [Portfolio Website](https://www.touchsunil.com)
-- 📧 [Email](mailto:touch.sunilraj@gmail.com)
+- 📧 [touch.sunilraj@gmail.com](mailto:touch.sunilraj@gmail.com)
 - 📞 +44 7832617091
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sunilraj-pazhamkannur-94b416203/)
-- 🧘‍♂️ [Yoga and Meditation Resources]([https://www.yogameditationresources.com](https://www.artofliving.org/uk-en)https://www.artofliving.org/uk-en)
+- 🧘‍♂️ [Yoga and Meditation](https://www.artofliving.org/uk-en)
