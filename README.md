@@ -1,30 +1,53 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<!-- Header -->
+# Hi there, I'm Sunil Raj! 👋
+![Header](https://your-image-url.com)
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- Introduction -->
+I'm a seasoned MERN Stack Developer based in Manchester, UK, with a strong background in crafting high-quality web applications. With over 5 years of experience in the industry, I've honed my skills in React, Node.js, Express, MongoDB, and MySQL. Beyond coding, I'm deeply passionate about yoga and meditation, finding balance between technology and well-being.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<!-- About Me -->
+## About Me 🚀
+- 💼 Currently working at [CognoThink](https://www.cognothink.com), Manchester, crafting efficient and scalable web applications.
+- 🌱 I’m continuously learning and exploring new technologies to stay updated with the latest trends.
+- 🧘‍♂️ I believe in the power of yoga and meditation to enhance both personal and professional life.
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+<!-- Work Experience -->
+## Work Experience 💻
+### [CognoThink](https://www.cognothink.com) - Manchester, UK
+#### Senior MERN Stack Developer (July 2020 - Present)
+- Developed and maintained web applications using the MERN stack.
+- Designed and implemented database schemas in MySQL, MSSQL, and MongoDB.
+- Managed cloud infrastructure, including deployment and scaling on platforms like AWS, Azure, and DigitalOcean.
+- Collaborated with clients to understand their requirements and deliver customized solutions.
 
-- ⚡ Fun fact **I am funny😅**
+### [IOSS (Infinite Open Source Solutions)](https://www.ioss.in) - Calicut, Kerala, India
+#### Full-Stack Web Developer (July 2018 - 2020)
+- Worked with the MERN stack (MongoDB, Express, React, Node.js) to develop web applications.
+- Implemented frontend development with React.js and backend development with Node.js and Express.
+- Managed databases using MySQL and MongoDB.
+- Ensured version control using Git and GitHub proficiency.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
-</p>
+### [CieA Solutions](https://www.cieasolution.com) - Malappuram, Kerala, India
+#### VB 6.0 Desktop Application Developer (July 2012 - 2018)
+- Specialized in VB 6.0 Desktop Application Development.
+- Integrated MySQL databases into applications.
+- Developed industry-specific software solutions including inventory, accounting, healthcare, hospitality, POS, and laboratory applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Skills -->
+## Skills 🛠️
+- MERN Stack (MongoDB, Express, React, Node.js)
+- HTML, CSS, JavaScript
+- Full-stack development expertise
+- MySQL and MongoDB
+- Nginx configuration for web performance optimization
+- Cloud Management (DigitalOcean, AWS, Firebase)
+- Version Control (Git, GitHub proficiency)
+- Creating responsive web applications
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+<!-- Contact Section -->
+## Get In Touch 📫
+- 🌐 [Portfolio Website](https://www.yourportfolio.com)
+- 📧 [Email](mailto:touch.sunilraj@gmail.com)
+- 📞 +44 7832617091
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🧘‍♂️ [Yoga and Meditation Resources](https://www.yogameditationresources.com)
