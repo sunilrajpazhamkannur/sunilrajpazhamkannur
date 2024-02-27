@@ -1,6 +1,6 @@
 <!-- Header -->
 # Hi there, I'm Sunil Raj! 👋
-![Header](https://your-image-url.com)
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <!-- Introduction -->
 I'm a seasoned MERN Stack Developer based in Manchester, UK, with a strong background in crafting high-quality web applications. With over 5 years of experience in the industry, I've honed my skills in React, Node.js, Express, MongoDB, and MySQL. Beyond coding, I'm deeply passionate about yoga and meditation, finding a balance between technology and well-being.
