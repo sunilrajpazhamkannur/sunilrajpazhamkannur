@@ -15,14 +15,14 @@ I'm a seasoned MERN Stack Developer based in Manchester, UK, with a strong backg
 <!-- Work Experience -->
 ## Work Experience 💻
 ### [CognoThink](https://www.cognothink.com) - Manchester, UK
-#### Senior MERN Stack Developer (July 2020 - Present)
+#### Senior MERN Stack Developer (July 2023 - Present)
 - Developed and maintained web applications using the MERN stack.
 - Designed and implemented database schemas in MySQL, MSSQL, and MongoDB.
 - Managed cloud infrastructure, including deployment and scaling on platforms like AWS, Azure, and DigitalOcean.
 - Collaborated with clients to understand their requirements and deliver customized solutions.
 
 ### [IOSS (Infinite Open Source Solutions)](https://www.ioss.in) - Calicut, Kerala, India
-#### Full-Stack Web Developer (July 2018 - 2020)
+#### Full-Stack Web Developer (July 2018 - 2023)
 - Worked with the MERN stack (MongoDB, Express, React, Node.js) to develop web applications.
 - Implemented frontend development with React.js and backend development with Node.js and Express.
 - Managed databases using MySQL and MongoDB.
